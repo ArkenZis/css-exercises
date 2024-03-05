@@ -1,0 +1,18 @@
+#even {
+    color: blue;
+    font-size: 36px;
+}
+
+p {
+    background-color: lightpink;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
