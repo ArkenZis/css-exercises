@@ -1,0 +1,14 @@
+.eleone {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.eletwo {
+    background-color: yellow;
+}
+
+button {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
